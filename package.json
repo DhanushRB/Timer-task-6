@@ -2,7 +2,7 @@
   "name": "timer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DhanushRB.github.io/affordmed-task-6-timer-",
+  "homepage": "https://dhanushrb.github.io/Timer-task-6/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
